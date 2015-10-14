@@ -575,4 +575,9 @@ body {
     margin: 0;
 }
 
+/*Agregado custom*/
 
+@font-face {
+    font-family: logofont;
+    src: url(../fonts/JennaSue.ttf);
+}
